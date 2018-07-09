@@ -30,7 +30,7 @@
   [zoom>=4] {
     line-width: 1;
   }
-  [zoom>=10] {
+  [zoom>=9] {
     line-width: 2;
   }
 }
